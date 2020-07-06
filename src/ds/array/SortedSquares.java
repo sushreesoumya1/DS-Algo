@@ -47,3 +47,8 @@ public class SortedSquares {
 	}
 
 }
+
+/*132 / 132 test cases passed.
+Status: Accepted
+Runtime: 1069 ms
+Memory Usage: 52.3 MB*/
