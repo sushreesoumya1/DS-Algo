@@ -1,4 +1,4 @@
-package ds.array;
+package leetcode.ds.array;
 
 public class EvenNumberOfDigits {
 
